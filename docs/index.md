@@ -6,4 +6,4 @@ slug: /
 
 # Documentatie Jurnal Gold
 
-text
+text (2)
